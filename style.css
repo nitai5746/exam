@@ -1,0 +1,126 @@
+.main{
+    width: 900px;
+    height: 1200px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, .7);
+}
+.logo{
+    width: 850px;
+    height: 50px;
+    margin: 10px 25px 10px 25px;
+    background-color: yellow;
+    text-align: center;
+}
+body{
+    background-image: url(./BackgroundPhoto.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.menu{
+    width: 850px;
+    height: 30px;
+    margin: 0px 25px 10px 25px;
+    background-color: seagreen;
+    float: left;
+}
+.slider{
+    width: 850px;
+    height: 400px;
+    margin: 0px 22px 10px 22px;
+    float: left;
+}
+.box1{
+    width: 350px;
+    height: 300px;
+    margin: 10px 10px 10px 25px;
+    background-color: azure;
+    float: left;
+}
+.box2{
+    width: 490px;
+    height: 300px;
+    margin:10px 25px 10px 0px;
+    background-color: rgb(62, 167, 167);
+    float: left;
+}
+.box3{
+    width: 280px;
+    height: 200px;
+    margin: 0px 5px 10px 25px;
+    background-color: rgb(187, 55, 176);
+    float: left;
+}
+.box4{
+    width: 280px;
+    height: 200px;
+    margin: 0px 5px 10px 0px;
+    background-color: rgb(12, 180, 62);
+    float: left;
+}
+.box5{
+    width: 280px;
+    height: 200px;
+    margin: 0px 25px 10px 0px;
+    background-color: rgb(105, 207, 37);
+    float: left;
+}
+.subbox1{
+    width: 240px;
+    height: 200px;
+    margin: 0px 10px 0px 0px;
+    background-color: teal;
+    float: left;
+}
+.subbox1 img{
+    width: 240px;
+    height: 180px;
+}
+.subbox2{
+    width: 240px;
+    height: 200px;
+    margin: 0px 0px 0px 0px;
+    background-color: teal;
+    float: left;
+}
+.subbox2 p{
+    text-align:left;
+}
+.box1 ul{
+    text-align: center;
+}
+.box1 li{
+    list-style-type: none;
+    font-weight: 700;
+    position: relative;
+    right: 15px;
+}
+.dd{
+    position: relative;
+    top: 10px;
+}
+.box3 img{
+    width: 280px;
+    height: 200px;
+}
+.box4 img{
+    width: 280px;
+    height: 200px;
+}
+.box5 img{
+    width: 280px;
+    height: 200px;
+}
+.cc{
+    text-align: center;
+    color: whitesmoke;
+    position: relative;
+    top: 20px;
+}
+.icons{
+text-align: center;
+position: relative;
+top: 20px;
+}
+.fa-facebook{
+    color: blue;
+}
